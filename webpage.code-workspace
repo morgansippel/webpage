@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "jsform"
+    },
+    {
+      "path": "coffeejunkie"
+    },
+    {
+      "path": "udemywebpage"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "udemywebpage"
+  }
+}
